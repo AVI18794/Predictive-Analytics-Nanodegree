@@ -13,4 +13,14 @@ The phases of CRISP-DM are as follows:-
 * Validation
 * Presentation/Visualization
 
-### Business Understanding:-  
+### Business Understanding:- 
+It is the first step in approaching any business problems.This initial phase focuses on understanding the project objectives and requirements from a business perspectives and then converting this knowledge into a data mining problem statements , and a preliminary plan is designed to achieve the objectives.
+Some of the questions a good data analyst of data scientists can ask to understand the business issues properly are:- 
+  * What decisions needs to be made?
+  * What information is needed to inform those decisions?
+  * What type of analysis can provide the information needed to inform those decisions?
+ 
+ ### Data Understanding:-
+ Before any business problem can be solved its important to know what data is needed and what data is available to solve those issues/ business problems. This is the second important phase in problem solving framework know as **data understanding**. Having a mental model of the business issue  will be helpful in determing what factors are helpful in solving those complex business issues.
+ In other words the data understanding will helps us determining whether the available data is suitable enough to solve the business issues or do we need to gather more data to solve the problem. 
+ The data understanding phase starts with an initial data collection and proceeds with activities in order to get familiar with the data, to indetify data quality problems, to discover first insights into the data or to detect interesting subsets to form hypothesis for hidden information.
