@@ -78,7 +78,7 @@ To summarise, data preparation is one of the most time-consuming steps of the en
 Modelling is the heart of data analytics. One can think of a model as a black box which takes relevant data as input and gives an output you are interested in.
 
 # Model Evaluation and Deployment
-** "True genius resides in the capacity for evaluation of uncertain, hazardous and conflicting information."**
+**"True genius resides in the capacity for evaluation of uncertain, hazardous and conflicting information."**
 In data analytics, evaluation is when you put everything you have done to litmus tests. If the results obtained from model evaluation are not satisfactory, you reiterate the whole process. If the model performs well and gives you accurate results, congratulations. You can move on to implementation of the model. 
 
 Evaluation is necessary to ensure that your model is **robust** and **effective**. Finally, implementation is the natural fruition of a project life-cycle.
